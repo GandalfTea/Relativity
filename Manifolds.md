@@ -3,7 +3,7 @@
 ### General Relativity Sim
 
 
--  [ x ] Lorentz Transformation
+-  [x] Lorentz Transformation
 -  [ ] Minkowski Spacetime
 -  [ ] Schwartzchild metric g matrix
 -  [ ] Tensor Arithmetic

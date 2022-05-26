@@ -1,3 +1,5 @@
+
+
 - [ ] Read "From special to general relativity" section on [Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_general_relativity#From_special_to_general_relativity)
 - [ ] Watch YouTube Videos on General Relativity
 - [ ] Look at and understand all the fundimentals to GR:
@@ -22,6 +24,7 @@ This Equivalence Principle states that someone freefalling with their closed env
 Just as effects of gravity can be negated from a free-fall acceleration downwards, a psudeo-gravity can be imposed by accelerating upwards.
 
 This means that an observer doing an experiment of dropping a ball to the ground wont be able to tell if they are on the surface of a plannet of gravity g, or in a rocket mopving upwards with an acceleration of g. 
+
 ![Dude experiencing acceleration g vs on planet with gravity g](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Elevator_gravity.svg/236px-Elevator_gravity.svg.png)
 
 With the accelerating reference frame with the observer, fictitious forces are introduced (forces which appear to act from nowhere due to movement of the reference frame - like a car accelerating throughing everyone in the back of the seats).
